@@ -669,8 +669,7 @@ button:hover{
 
         <p class="quote">
 
-            "Some feelings don't need a name.
-            They just stay special."
+            "You are the beautiful secret I cannot share with anyone!🤍✨"
 
         </p>
 
